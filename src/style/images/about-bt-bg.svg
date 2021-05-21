@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="320px" viewBox="0 0 1920 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dbg</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="320"></rect>
+        <linearGradient x1="100%" y1="48.5444%" x2="0%" y2="51.4556%" id="linearGradient-3">
+            <stop stop-color="#32C5FF" offset="0%"></stop>
+            <stop stop-color="#6236FF" offset="51.2583893%"></stop>
+            <stop stop-color="#00C2A7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about" transform="translate(0.000000, -3442.000000)">
+            <g id="dbg" transform="translate(0.000000, 3442.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#2154D1" xlink:href="#path-1"></use>
+                <path d="M697.972345,319.815181 C779.205018,230.965647 894.657268,178.142857 1019.42402,178.142857 C1144.29997,178.142857 1259.73511,231.12516 1340.80545,319.71414 C1392,320 1517,320 1575.78413,319.677663 C1652.27655,279.081814 1767.01517,218.18804 1920,136.996341 C1894.30609,88.6084883 1865.00634,42.7749125 1832.51185,-0.215607806 C1735,-7.45153939e-13 389,6.93278768e-13 206.140048,0.0786451117 C182.287507,31.6581112 160.146298,64.7807343 139.878931,99.3360605 C99.1895241,168.710425 66.9405874,242.455945 43.6941739,319.193693 C99,320 668,319 697.972345,319.815181 Z" id="形状" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

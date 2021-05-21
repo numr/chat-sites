@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="420px" viewBox="0 0 1920 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo bg</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="420"></rect>
+        <linearGradient x1="100%" y1="47.4054436%" x2="0%" y2="52.5945564%" id="linearGradient-3">
+            <stop stop-color="#32C5FF" offset="0%"></stop>
+            <stop stop-color="#6236FF" offset="51.2583893%"></stop>
+            <stop stop-color="#00C2A7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about" transform="translate(0.000000, -2.000000)">
+            <g id="logo-bg" transform="translate(0.000000, 2.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M1019.42402,420 C1351.25706,420 1654.88982,259.752585 1843.75298,0.0603963337 C1825.25099,0.0201321113 1210.66667,3.69482223e-12 0,3.69482223e-12 L0,420 L1019.42402,420 Z M303.332045,345.855962 L111.245592,345.855962 C90.7658442,345.855962 74.1637282,329.258254 74.1637282,308.783943 L74.1637282,105.452287 C74.1637282,84.977976 90.7658442,68.3802678 111.245592,68.3802678 C121.447876,68.3802678 131.199467,72.5825406 138.204595,79.9977661 L330.291047,283.329423 C344.352924,298.214516 343.682371,321.677645 328.793325,335.735789 C321.909817,342.235153 312.800247,345.855962 303.332045,345.855962 Z" id="形状" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

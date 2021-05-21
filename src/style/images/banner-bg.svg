@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="650px" viewBox="0 0 1920 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg/home_bg</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2154D1" offset="0%"></stop>
+            <stop stop-color="#1445BD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2154D1" offset="0%"></stop>
+            <stop stop-color="#1445BD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.2949387%" y1="98.928854%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#2154D1" offset="0%"></stop>
+            <stop stop-color="#1445BD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.7318011%" y1="83.0572086%" x2="83.1874939%" y2="6.49045743%" id="linearGradient-4">
+            <stop stop-color="#2154D1" offset="0%"></stop>
+            <stop stop-color="#1445BD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.3366374%" y1="53.4534838%" x2="51.6501612%" y2="35.0757514%" id="linearGradient-5">
+            <stop stop-color="#2154D1" stop-opacity="0.840171547" offset="0%"></stop>
+            <stop stop-color="#1445BD" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0827216%" y1="19.4429351%" x2="50%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#2154D1" offset="0%"></stop>
+            <stop stop-color="#1445BD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.2535992%" y1="8.04221991%" x2="12.2535992%" y2="87.492015%" id="linearGradient-7">
+            <stop stop-color="#2154D1" offset="0%"></stop>
+            <stop stop-color="#1445BD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg/home_bg">
+            <g>
+                <rect id="Mask" fill="#2154D1" x="0" y="0.00357133747" width="1920" height="650"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(-24.991072, 78.012500) rotate(-315.000000) translate(24.991072, -78.012500) " x="-92.4910717" y="-101.9875" width="135" height="360"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" transform="translate(407.787409, 325.000000) rotate(-315.000000) translate(-407.787409, -325.000000) " x="363.787409" y="-178" width="88" height="1006"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" transform="translate(494.787409, 361.790981) rotate(-315.000000) translate(-494.787409, -361.790981) " x="450.787409" y="-141.209019" width="88" height="1006"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" transform="translate(430.198052, 178.380338) rotate(-315.000000) translate(-430.198052, -178.380338) " x="386.198052" y="-116.619662" width="88" height="590"></rect>
+                <rect id="Rectangle-Copy-10" fill="url(#linearGradient-3)" transform="translate(372.709199, 111.712770) rotate(-315.000000) translate(-372.709199, -111.712770) " x="328.709199" y="-183.28723" width="88" height="590"></rect>
+                <path d="M1880.34942,-60.7874093 L1942.244,1.10759069 L1967.34942,-23.9964287 L2029.57482,38.2289681 L1318.2254,749.57839 L1256.33,687.682591 L1231.2254,712.787409 L1169,650.562013 L1880.34942,-60.7874093 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+                <path d="M1880.34942,-60.7874093 L1942.244,1.10759069 L1967.34942,-23.9964287 L2029.57482,38.2289681 L1318.2254,749.57839 L1256.33,687.682591 L1231.2254,712.787409 L1169,650.562013 L1880.34942,-60.7874093 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-6)" transform="translate(1554.156421, 155.338708) rotate(-315.000000) translate(-1554.156421, -155.338708) " x="1476.15642" y="-139.661292" width="156" height="590"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-7)" transform="translate(367.750829, 661.754401) rotate(-315.000000) translate(-367.750829, -661.754401) " x="289.750829" y="366.754401" width="156" height="590"></rect>
+                <rect id="Rectangle-Copy-10" fill="url(#linearGradient-6)" transform="translate(1481.750829, 7.754401) rotate(-315.000000) translate(-1481.750829, -7.754401) " x="1403.75083" y="-287.245599" width="156" height="590"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
