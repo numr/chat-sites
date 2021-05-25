@@ -66,3 +66,32 @@ footer .tp .cell.code a{width:24px;text-align: center;}
 footer .tp .cell.code ul{transform: translateX(-6px);}
 footer .bt{background:#132F6A;padding: 1rem 0;}
 
+.list-checkout-item {
+    position: relative;
+    padding-left: 32px;
+}
+.list-checkout-item::after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-image: url(../images/checkout.svg);
+}
+
+.list-dot-item {
+    position: relative;
+    padding-left: 16px;
+}
+.list-dot-item::after {
+    content: '·';
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    width: 24px;
+    height: 24px;
+    font-size: 32px;
+}

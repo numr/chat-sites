@@ -1,18 +1,103 @@
 .video-chat-header-title {
     background-image: url('../../images/video/top_bg.png');
-    background-position: center;
-
+    background-repeat: no-repeat;
+    background-size: cover;
     h1 {
         font-size: 36px;
     }
 }
 
-.video-chat-list {
+.video-chat-list,
+.video-description-cont {
     margin-top: -32px;
+
     .video-chat-item {
+        position: relative;
         min-height: 190px;
         box-shadow: 0px 16px 32px rgba(0, 54, 92, 0.12);
         border-radius: 3px;
         background-color: #fff;
+
+        &:first-child {
+            .card-size {
+                color: #FA4F4F;
+
+                .c-size {
+                    color: #fff;
+                }
+            }
+        }
+
+        &:nth-child(2) {
+            .card-size {
+                color: #FF7426;
+
+                .c-size {
+                    color: #fff;
+                }
+            }
+        }
+        &:nth-child(3){
+            .card-size {
+                color: #00A3FF;
+
+                .c-size {
+                    color: #fff;
+                }
+            }
+        }
+
+        .card-size {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 40px;
+            height: 40px;
+            color: #EDF1F8;
+
+            .c-size {
+                position: absolute;
+                left: 10px;
+                top: 6px;
+                color: #B0B5BD;
+                font-weight: bold;
+            }
+
+        }
+
+        .img-cont {
+            min-width: 200px;
+        }
+
+        .visit-btn {
+            display: block;
+            width: 192px;
+            height: 56px;
+            line-height: 56px;
+            background: #FA4F4F;
+            box-shadow: 0px 6px 10px rgba(0, 46, 89, 0.2);
+            border-radius: 100px;
+            font-weight: bold;
+            font-size: 22px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .outstanding-value {
+            width: 64px;
+            height: 28px;
+            margin-left: 8px;
+            background: #C9DDFF;
+            border-radius: 30px;
+            color: #2B3D5A;
+        }
+    }
+}
+
+.video-description-cont {
+    background-color: #F5F9FC;
+    margin-top: 64px;
+    .video-chat-item { 
+        min-height: 118px;
     }
 }

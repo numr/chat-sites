@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import { Link } from "gatsby"
 
 const Header = ({ siteTitle }) => (
-  <header className="fixed w-full bg-headerColor z-10">
+  <header className="fixed w-full bg-header-color z-10">
     <div className="w-full container mx-auto">
       <nav className="flex align-center justify-between">
 

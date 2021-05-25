@@ -7,11 +7,13 @@ module.exports = {
     },
     extend: {
       colors: {
-        'blue': '#0A40CE',
+        'blue': '#4D8BF4',
         'black':'#193570',
         'green':'#13DA57',
         'gray':'#798793',
-        'headerColor': '#FF2E6C'
+        'header-color': '#FF2E6C',
+        'block-bg': '#F7F9FC',
+        'theme-text': '#ED1958',
       }
     }
   },
