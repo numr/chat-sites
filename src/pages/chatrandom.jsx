@@ -319,6 +319,7 @@ export default function videoPage() {
             })}
           </ul>
         </section>
+        </div>
       </div>
     </Layout>
   )
