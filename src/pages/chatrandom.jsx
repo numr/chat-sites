@@ -50,7 +50,7 @@ export default function videoPage() {
 
   return (
     <Layout>
-      <SEO title="Video chat" description="video chat" />
+      <SEO title="Chatrandom: Free Random Video Chat at chatrandom.com" description="video chat" />
       <div className="chatrandom-page">
         <section className="top-bg pt-32 text-center text-white pt pb-20">
           <div className="container w-full  mx-auto">
@@ -147,9 +147,6 @@ export default function videoPage() {
 
             </ul>
           </div>
-          <div className="max-w-sm flex items-senter">
-            <img src={partOneImg} alt="feature icon" />
-          </div>
         </section>
 
         <section className="container w-full text-center mx-auto my-28">
@@ -164,7 +161,8 @@ export default function videoPage() {
             <li className="who-app-item flex flex-col items-center">
               <WhoApp1Icon />
               <span className="mt-6 leading-6">
-              Random Gay Chat
+              Strike up a sparking conversation with new people with the random video chat offered by Chatrandom. You can easily connect with people of your choice and communicate with them through video chat.
+
               </span>
             </li>
             <li className="who-app-item md:mx-6  flex flex-col items-center">
@@ -186,6 +184,7 @@ export default function videoPage() {
           <h3 className="text-theme-text text-2xl leading-9 mb-8">
             About Chatrandom
           </h3>
+          <h4 className="leading-6 mb-4 text-xl"> Introduction to Chatrandom</h4>
           <p className="mb-8 leading-6">
           Chatrandom started its venture back in 2011 as a one-of-a-kind free webcam-based chatting platform. The developers here at Chatrandom believed in influencing a simpler platform with different strangers. While operating it across a multidimensional format, people were actually able to instantly meet new people and interact with them. This allowed Chatrandom to inherit hundreds of thousands of daily active users.
           </p>
@@ -213,31 +212,6 @@ export default function videoPage() {
           </p>
 
 
-          <ul className="bg-block-bg p-4 mb-10">
-            <li className="list-checkout-item">Send & Receive Faxe</li>
-            <li className="list-checkout-item">Safe, Secure & Encry</li>
-            <li className="list-checkout-item">
-              No Fax Maintenance or Phone Charges
-            </li>
-            <li className="list-checkout-item">
-              View, Crop, Edit & Annotate Faxes
-            </li>
-          </ul>
-          <h4 className="leading-6 mb-4 text-xl">
-            Using your Google Voice number for faxing
-          </h4>
-          <p className="mb-8">
-            Here are some of the advantages of porting out your Google Voice
-            number to and send and receive fax using Google Voice:
-          </p>
-          <p>
-            Always available: Regardless of your internet connection status,
-            your fax number is always active and ready to receive faxes. You’ll
-            be notified via email and push notification as soon as there is a
-            new fax in your inbox, and you can easily check your fax archives
-            using application on different platforms (See where to download the
-            CocoFinder application)
-          </p>
         </section>
 
         <section className="container w-full  mx-auto my-28">
