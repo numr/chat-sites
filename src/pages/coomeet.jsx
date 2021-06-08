@@ -76,7 +76,7 @@ export default function videoPage() {
 
         <section className="container w-full  mx-auto my-28 text-center">
           <h2 className="text-theme-text text-4xl leading-tight mb-14">
-            More sites like Chatrandom
+            More sites like Coomeet
           </h2>
           <ul className="flex flex-wrap justify-center md:justify-start">
             {moreLikeList.map((it, index) => {
@@ -183,20 +183,20 @@ export default function videoPage() {
 
           </h4>
           <p className="mb-6">
-          Pros
+          <strong>Pros</strong>
           </p>
-          <ul>
-          <li>CooMeet provides users with a specific gender to interact with, unlike many other video cam chat platforms.</li>  
-          <li>It offers people to try it out for free.</li>    
-          <li>It provides a very simple user interface with support for customer service.</li>    
-          <li>The platform has a very good collection of the opposite gender, which provides users with an interesting choice.</li>    
+          <ul className="ml-2">
+          <li className="list-dot-item mb-3">CooMeet provides users with a specific gender to interact with, unlike many other video cam chat platforms.</li>  
+          <li className="list-dot-item mb-3">It offers people to try it out for free.</li>    
+          <li className="list-dot-item mb-3">It provides a very simple user interface with support for customer service.</li>    
+          <li className="list-dot-item mb-3">The platform has a very good collection of the opposite gender, which provides users with an interesting choice.</li>    
   
           </ul>
           <p className="mb-6">
-          Cons
+         <strong>Cons</strong> 
           </p>
-          <ul>
-          <li>The complete services of CooMeet are only available in its paid version. People can check out different filters and settings only after buying a certain payment plan.</li>  
+          <ul className="ml-2">
+          <li className="list-dot-item mb-3">The complete services of CooMeet are only available in its paid version. People can check out different filters and settings only after buying a certain payment plan.</li>  
           </ul>
         </section>
 
