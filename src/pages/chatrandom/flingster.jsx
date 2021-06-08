@@ -186,7 +186,7 @@ export default function videoPage() {
               <p className="text-base mb-14 text-center max-w-4xl mx-auto">
                 Users who are serious about online dating should always look to
                 have a very good random video chat at Flingster. Flingster
-                provides you to have a perfect match that you could definitely
+                provides you with a perfect match that you could definitely
                 enjoy spending time with.
               </p>
             </li>
@@ -295,7 +295,7 @@ export default function videoPage() {
               </h5>
               <p>
                 Flingster smoothly connects you with another user within 30
-                seconds after you tap on the ‘Start Chatting’ button.
+                seconds after you tap on the 'Start Chatting' button.
               </p>
             </li>
             <li className="mb-10 max-w-md">
@@ -305,7 +305,7 @@ export default function videoPage() {
               <p>
                 It is extremely easy for you to block someone on the platform.
                 Access the profile of the user that you do not wish to interact
-                with and select ‘Block’ from the drop-down menu.
+                with and select 'Block' from the drop-down menu.
               </p>
             </li>
             <li className="mb-10 max-w-md">

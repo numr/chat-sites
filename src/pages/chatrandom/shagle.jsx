@@ -208,10 +208,6 @@ export default function videoPage() {
             experience in online cam chatting.
           </p>
           <p className="mb-8 leading-6">
-            Here are some of the advantages of porting out your Google Voice
-            number to and send and receive fax using Google Voice:
-          </p>
-          <p className="mb-8 leading-6">
             You have the autonomy to select the method of communication with the
             stranger. It is completely up to the discretion of the user to have
             a text, voice, or video chat with the person they connect with.
@@ -223,7 +219,7 @@ export default function videoPage() {
             It is extremely simple to start an online cam chat at Shagle. The
             platform does not require any registration or sign-ups for
             communicating with people. The user has to specify their gender and
-            proceed with tapping 'Start Chatting.' Following this, they are also
+            proceed with tapping 'Start Chatting'. Following this, they are also
             required to agree to the terms and conditions set up by the
             platform. It is to be kept in mind that the user should be above the
             age of 18 years for using Shagle.
