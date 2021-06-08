@@ -266,7 +266,7 @@ export default function videoPage() {
           </p>
           <p>
             Omegle has added another feature for effective protection from bots.
-            With the help of redefined ReCAPTCHA's security propositions, users
+            With the help of redefined ReCAPTCHA's security, users
             are secured from getting matched with bots.
           </p>
         </section>

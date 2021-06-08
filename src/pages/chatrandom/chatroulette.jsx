@@ -227,12 +227,12 @@ export default function videoPage() {
           <ul className="bg-block-bg p-4 mb-10">
             <li className="list-checkout-item">
               Blur feature: If you want to remain anonymous on video, you can
-              use the blue button. 
+              use the blue button.
             </li>
             <li className="list-checkout-item">
               {" "}
-              Chat filter: If you are unwilling to use a video cam,
-              you may choose to chat instead. How sweet!
+              Chat filter: If you are unwilling to use a video cam, you may
+              choose to chat instead. How sweet!
             </li>
             <li className="list-checkout-item">
               Gender filter: In general, you will be randomly connected with
@@ -293,16 +293,6 @@ export default function videoPage() {
                 people out there who want something more real. You can pair with
                 these people and build real relationships that can lead to
                 something serious.
-              </p>
-            </li>
-            <li className=" max-w-md">
-              <h5 className="mb-4 text-base">
-                What if I don’t want CocoFinder to feature my personal
-                information?
-              </h5>
-              <p>
-                That can easily be solved by contacting our customer support. We
-                will respect your wish and remove your data from our system.
               </p>
             </li>
           </ul>

@@ -231,7 +231,7 @@ export default function videoPage() {
             To video chat across Ome TV, you need to provide some initial
             details to make your matches stronger. Ome TV demands the location
             and the gender of the user for providing them better people to
-            communicate with. Once you are ready to video chat, tap on ‘Start’
+            communicate with. Once you are ready to video chat, tap on 'Start'
             to initiate searching.
           </p>
           <h4 className="leading-6 mb-4 text-xl">Is Ome TV Safe?</h4>

@@ -97,7 +97,7 @@ export default function videoPage() {
         <section className="container w-full mx-auto my-28 flex flex-wrap text-base">
           <div className="max-w-xl md:mr-24">
             <h2 className="text-theme-text text-4xl leading-tight mb-8">
-              Popular platform to chat with strangers
+              Popular Platform to Chat with Strangers
             </h2>
             <p className="mb-8">
               Emerald Chat is one of the most common and creative forums for
@@ -118,11 +118,11 @@ export default function videoPage() {
               interests!
             </p>
             <p className="mb-8">
-              merald Chat is the perfect free video chat platform for you if
+              Emerald Chat is the perfect free video chat platform for you if
               meeting new people is daunting in your busy life. Its unique and
               attractive characteristics make it simple for you to meet new
               people. It is easy to reach a wide variety of people. Thanks to
-              the constantly growing number of users. You can also meet people
+              the constantly growing number of users, you can also meet people
               from various countries and have a video chat with strangers.
             </p>
           </div>

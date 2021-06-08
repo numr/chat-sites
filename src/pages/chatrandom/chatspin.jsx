@@ -148,28 +148,20 @@ export default function videoPage() {
               <h2 className="text-theme-text text-4xl leading-tight mb-8">
                 ChatSpin Specialties
               </h2>
-              <p className="mb-8">
-                If you are new to using ChatSpin, you should be aware of what
-                this video chatting platform is known for providing its consumer
-                market.
-              </p>
-
               <ul className="ml-2">
                 <li className="list-dot-item mb-3">Real-Time Chatting</li>
               </ul>
               <p className="mb-8">
                 You can not only have a video chat with any stranger across
                 ChatSpin but even enjoy communicating with them across voice
-                chat and through texts. This can help users get hold of talking
-                with strangers and developing a good bond with them.
+                chat and through texts.
               </p>
               <ul className="ml-2">
                 <li className="list-dot-item mb-3">Location Filtering</li>
               </ul>
               <p className="mb-8">
-                ChatSpin is officially known for offering a very coherent
-                location filter to its users. You can either go local or even
-                move for international filters according to your desire.
+                You can either go local or even move for international filters
+                according to your need.
               </p>
               <ul className="ml-2">
                 <li className="list-dot-item mb-3">
@@ -177,20 +169,16 @@ export default function videoPage() {
                 </li>
               </ul>
               <p className="mb-8">
-                You have the autonomy to select the type of people that you wish
-                to have a chat with. Easily select a gender and filter out all
-                the available users accordingly.
+                Easily select a gender and filter out all the available users.
               </p>
               <ul className="ml-2">
                 <li className="list-dot-item mb-3">
-                  Multiple Platforms to Communicate With
+                  Multiple Platforms to Communicate
                 </li>
               </ul>
               <p>
-                ChatSpin allows you to interact with users through its computer
-                or mobile web browser platform. If you are an Android user, you
-                can also enjoy interacting with strangers through your mobile
-                phone.
+                ChatSpin allows you to interact with users through its platform
+                for computer, mobile web browser, and Andriod.
               </p>
             </div>
           </section>
@@ -299,21 +287,6 @@ export default function videoPage() {
             Frequently Asked Questions (FAQs)
           </h3>
           <ul className="flex flex-wrap justify-between">
-            <li className="mb-10 max-w-md  ">
-              <h5 className="mb-4 text-base">
-                What are the membership prices here at ChatSpin?
-              </h5>
-              <p className="mb-8">
-                If you wish to sign up for the membership of ChatSpin, you can
-                consider the following packages.
-                <ul className="ml-2">
-                <li className="list-dot-item mb-3">$6.99/week</li>
-                <li className="list-dot-item mb-3">$19.99/month</li>
-                <li className="list-dot-item mb-3">$86.94/six months</li>
-              </ul>
-              </p>
-          
-            </li>
             <li className="mb-10 max-w-md">
               <h5 className="mb-4 text-base">
                 What is the minimum age to register for ChatSpin?
@@ -347,6 +320,20 @@ export default function videoPage() {
                 There is no option of blocking users at ChatSpin. However, the
                 user can be reported, which would then be blocked by the
                 support.
+              </p>
+            </li>
+            <li className="mb-10 max-w-md  ">
+              <h5 className="mb-4 text-base">
+                What are the membership prices here at ChatSpin?
+              </h5>
+              <p className="mb-8">
+                If you wish to sign up for the membership of ChatSpin, you can
+                consider the following packages:
+                <ul className="ml-2">
+                  <li className="list-dot-item mb-3">$6.99/week</li>
+                  <li className="list-dot-item mb-3">$19.99/month</li>
+                  <li className="list-dot-item mb-3">$86.94/six months</li>
+                </ul>
               </p>
             </li>
           </ul>
