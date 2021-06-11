@@ -17,7 +17,7 @@ export default function videoPage() {
     <Layout>
       <SEO title="Video chat" description="video chat" />
       <section className="video-chat-header-title pt-20 text-center text-white text-2xl pb-20 md:text-4xl md:bg-center md:pt-32">
-        <h1 className="leading-10 mx-1">The Best Random Video Chat Sites of 2021</h1>
+        <h1 className="leading-10 mx-1">Omegle Alternative: 12 Best Random Video Chat Sites Like Omegle</h1>
       </section>
       <VideoCont />
       <VideoDescription />
