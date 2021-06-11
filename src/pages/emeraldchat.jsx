@@ -29,7 +29,7 @@ import { ReactComponent as WhoApp3Icon } from "/src/images/chatrandom/who-app-3.
 
 import partOneImg from "/src/images/email-lookup.svg"
 import partTwoImg from "/src/images/email-lookup.svg"
-import "./index.less"
+import "./video/index.less"
 
 export default function videoPage() {
   const moreLikeList = [
