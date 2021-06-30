@@ -5,9 +5,9 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="renderer" content="webkit"/>
-        <meta http-equiv="x-ua-compatible" content="IE=Edge,chrome=1"/>
+        <meta httpEquiv="x-ua-compatible" content="IE=Edge,chrome=1"/>
         <meta
           name="viewport"
           content="width=device-width,user-scalable=0,initial-scale=1,maximum-scale=1,minimum-scale=1"
